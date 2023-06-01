@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shuklaksh
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS and React
-- 💞️ I’m looking to collaborate on any Web dev related project
+- 👀 I am a frontend developer from India.
+- 💞 You can talk to me about you love for Javascript and React.
 
 <!---
 shuklaksh/shuklaksh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
